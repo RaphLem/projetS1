@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A propos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Des_solutions_pour_l_avenir.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pollution_numerique_ignore_du_grand_public.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ready_Player_One_Un_monde_d_evasion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +65,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605770294686</updated>
-      <workItem from="1605770295884" duration="2353000" />
+      <workItem from="1605770295884" duration="3104000" />
+      <workItem from="1605885511780" duration="15000" />
     </task>
+    <task id="LOCAL-00001" summary="Création des pages html">
+      <created>1605776208067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605776208122</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +91,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Création des pages html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Création des pages html" />
   </component>
 </project>
