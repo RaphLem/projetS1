@@ -21,6 +21,14 @@
   <component name="ChangeListManager">
     <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A_propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/A_propos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Des_solutions_pour_l_avenir.html" beforeDir="false" afterPath="$PROJECT_DIR$/Des_solutions_pour_l_avenir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pollution_numerique_ignore_du_grand_public.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pollution_numerique_ignore_du_grand_public.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ready_Player_One_Un_monde_d_evasion.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ready_Player_One_Un_monde_d_evasion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +75,8 @@
       <updated>1605770294686</updated>
       <workItem from="1605770295884" duration="3104000" />
       <workItem from="1605885511780" duration="15000" />
+      <workItem from="1607767496170" duration="8246000" />
+      <workItem from="1607801849655" duration="1374000" />
     </task>
     <task id="LOCAL-00001" summary="Création des pages html">
       <created>1605776208067</created>
@@ -75,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605776208122</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modification gitignore">
+      <created>1607767671921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607767671921</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ajout des images et des font dans les dossiers">
+      <created>1607779520985</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607779520985</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Création des pages html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Création des pages html" />
+    <MESSAGE value="modification gitignore" />
+    <MESSAGE value="ajout des images et des font dans les dossiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout des images et des font dans les dossiers" />
   </component>
 </project>
