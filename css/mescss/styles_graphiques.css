@@ -7,7 +7,7 @@ ul
 
 header
 {
-    display: inline-block;
+    display: block;
     height: 84px;
 }
 
@@ -16,4 +16,98 @@ header img
     width: 60px;
     height: 60px;
 }
+
+header h2
+{
+    text-align: center;
+}
+
+.image_accueil
+{
+    background-image:url('/projetS1/img/Ready_Player_One_2.jpg');
+    background-repeat: no-repeat;
+    background-size: 400px 788px;
+    height: 728px;
+    width: 100%;
+}
+
+.image_accueil p
+{
+    padding-right: 15px;
+    position: absolute;
+    left: 111px;
+    top: 602px;
+}
+
+.choix_article a{
+    background-image: url('/projetS1/img/Bouton_en_savoir_plus.png');
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    display: block;
+    float: right;
+    height: 24px;
+    width: 161px;
+
+}
+
+.partie_supérieure{
+    border-bottom: solid #FCFCFC 1px;
+}
+
+.partie_supérieure a:first-child{
+    background-image: url('/projetS1/img/Bouton A Propos.png');
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    display: inline-block;
+    height: 20px;
+    width: 70px;
+
+}
+
+.partie_supérieure a:nth-child(2){
+    background-image: url('/projetS1/img/Bouton Contact.png');
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    display: inline-block;
+    height: 20px;
+    width: 70px;
+
+}
+
+.réseaux a[href^="twitter"]{
+    background-image: url("/projetS1/img/twitter.png");
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    display: block;
+    height: 22px;
+    width: 24px;
+}
+
+.réseaux a[href^="facebook"]{
+    background-image: url("/projetS1/img/facebook.png");
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    display: block;
+    height: 22px;
+    width: 16px;
+}
+
+.réseaux a[href^="https://www.linkedin.com/in/raphaël-lemoine-83411a200/"]{
+    background-image: url("/projetS1/img/linkedin.png");
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    display: block;
+    height: 22px;
+    width: 24px;
+}
+
+.réseaux a[href^="Instagram"]{
+    background-image: url("/projetS1/img/instagram.png");
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    display: block;
+    height: 22px;
+    width: 24px;
+}
+
 

@@ -20,12 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mescss/mise_en_page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mescss/styles_graphiques.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mescss/styles_typographie_couleurs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mise_en_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles_graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_graphiques.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles_typographie_couleurs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_typographie_couleurs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Ready_Player_One 2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -76,7 +77,7 @@
       <workItem from="1605770295884" duration="3104000" />
       <workItem from="1605885511780" duration="15000" />
       <workItem from="1607767496170" duration="8246000" />
-      <workItem from="1607801849655" duration="15609000" />
+      <workItem from="1607801849655" duration="35053000" />
     </task>
     <task id="LOCAL-00001" summary="Création des pages html">
       <created>1605776208067</created>
@@ -106,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607853874325</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Menu terminé">
+      <created>1607872491857</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607872491857</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Menu terminé">
+      <created>1607882060964</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607882060964</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +144,7 @@
     <MESSAGE value="modification gitignore" />
     <MESSAGE value="ajout des images et des font dans les dossiers" />
     <MESSAGE value="Html page accueil" />
-    <option name="LAST_COMMIT_MESSAGE" value="Html page accueil" />
+    <MESSAGE value="Menu terminé" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu terminé" />
   </component>
 </project>

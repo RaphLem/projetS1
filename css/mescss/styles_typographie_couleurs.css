@@ -13,7 +13,6 @@ body
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.6rem;  /* équivaut à 16px */
     line-height: 1.6rem;
-    margin: 0 20px 0 20px;
     background-color: #020B40;
 }
 
@@ -28,25 +27,63 @@ h1
     font-size: 3.2rem;
 }
 
-h2, nav a
+.menu
 {
     font-size: 2rem;
 }
+
+h2
+{
+    font-size: 2rem;
+    line-height: 3rem;
+}
+
+
 
 h3
 {
     font-size: 1.7rem;
 }
 
-a
+a,a:active
 {
     text-decoration: none;
+    color: #FCFCFC;
+    font-family: "Source Sans Pro",sans-serif;
+}
+
+a:hover{
+    color: #F2EBB2;
 }
 
 p
 {
     font-size: 1.6rem;
     letter-spacing: 0;
-    line-height: 1.6rem;
+    line-height: 2rem;
 }
 
+header
+{
+    background-color: #20375E;
+
+}
+
+header h2
+{
+    line-height: 2.5rem;
+}
+
+footer
+{
+    background-color: #20375E;
+}
+
+.partie_supérieure p{
+    font-size: 1rem;
+}
+
+.encadré{
+    background-color: black;
+    opacity: 36%;
+}
