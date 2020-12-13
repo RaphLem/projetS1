@@ -18,13 +18,12 @@ header h2
 
 main
 {
-    margin : 0 16px 0 16px;
+    margin : 0 18px 0 18px;
 }
 
 
 .choix_article img
 {
-    height: 220px;
     width: 345px;
 
 }
@@ -102,3 +101,30 @@ footer {
     height: 170px;
 }
 
+.article img{
+    width: 343px;
+    margin: 20px 0 40px 0;
+
+}
+
+.article video{
+    width: 345px;
+    margin: 10px 0 30px 0;
+}
+
+.légende{
+    position: absolute;
+    right: 20px;
+}
+
+.bande{
+    top: 565px;
+}
+
+.easter{
+    top: 1560px;
+}
+
+.data{
+    top: 1317px;
+}

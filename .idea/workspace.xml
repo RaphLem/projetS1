@@ -21,11 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pollution_numerique_ignore_du_grand_public.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pollution_numerique_ignore_du_grand_public.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ready_Player_One_Un_monde_d_evasion.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ready_Player_One_Un_monde_d_evasion.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mise_en_page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_graphiques.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/styles_typographie_couleurs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_typographie_couleurs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Ready_Player_One 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ready-player-one-easter-eggs-cover-1097465-1280x0.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +78,7 @@
       <workItem from="1605770295884" duration="3104000" />
       <workItem from="1605885511780" duration="15000" />
       <workItem from="1607767496170" duration="8246000" />
-      <workItem from="1607801849655" duration="35053000" />
+      <workItem from="1607801849655" duration="41597000" />
     </task>
     <task id="LOCAL-00001" summary="Création des pages html">
       <created>1605776208067</created>
@@ -121,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607882060964</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Page d'accueil terminé">
+      <created>1607894482689</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607894482719</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +153,7 @@
     <MESSAGE value="ajout des images et des font dans les dossiers" />
     <MESSAGE value="Html page accueil" />
     <MESSAGE value="Menu terminé" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu terminé" />
+    <MESSAGE value="Page d'accueil terminé" />
+    <option name="LAST_COMMIT_MESSAGE" value="Page d'accueil terminé" />
   </component>
 </project>
