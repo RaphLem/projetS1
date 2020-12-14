@@ -117,5 +117,28 @@ footer
 }
 
 .ici{
-    text-decoration: #F2EBB2;
+    text-decoration: initial;
+}
+
+label{
+    font-family: "Oswald",sans-serif;
+    font-size: 2rem;
+}
+
+input[type=text]{
+    width: 97%;
+    margin: 15px 0 20px 0;
+}
+
+textarea{
+    width: 97%;
+    margin: 15px 0 20px 0;
+}
+
+input[type="submit"] {
+    font-family: "Source Code Pro Semibold", sans-serif;
+    font-size: 1.4rem;
+    width: 161px;
+    height: 30px;
+    border-radius: 1.5rem;
 }

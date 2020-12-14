@@ -3,10 +3,77 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/lib/normalize.css">
-    <link rel="stylesheet" href="css/mescss/styles-typographie-couleurs.css">
-    <link rel="stylesheet" href="css/mescss/styles-graphiques.css">
-    <link rel="stylesheet" href="css/mescss/mise-en-page.css">
+
     <link rel="icon" href="img/logo_vr.png">
     <title>VR Une réalité pas si virtuelle</title>
+
+    <link rel="stylesheet" href="css/lib/normalize.css">
+    <link rel="stylesheet" href="css/mescss/styles_typographie_couleurs.css">
+    <link rel="stylesheet" href="css/mescss/styles_graphiques.css">
+    <link rel="stylesheet" href="css/mescss/mise_en_page.css">
+    <link rel="stylesheet" href="css/mescss/menu.css">
+
 </head>
+<body>
+<header>
+    <img src="img/logo_vr.png" alt="">
+    <h2>VR Une réalité<br>pas si virtuelle</h2>
+    <div class="nav-toggle" onclick="document.documentElement.classList.toggle('menu-open')">
+        <div class="nav-toggle-bar"></div>
+    </div>
+    <nav class="menu">
+        <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="Ready_Player_One_Un_monde_d_evasion.html">Ready Player One<br>un monde d'évasion</a></li>
+            <li><a href="Pollution_numerique_ignore_du_grand_public.html">Pollution numérique<br>ignoré du grand public</a></li>
+            <li><a href="Des_solutions_pour_l_avenir.html">Des solutions pour l'avenir</a></li>
+            <li><a href="A_propos.html">À Propos / Autres projets</a></li>
+            <li><a href="">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <h1>Contact</h1>
+    <p>Si vous avez des question ou des avis à donner, vous pouvez les envoyer ici !</p>
+    <form action="">
+        <label>Nom</label>
+        <br>
+        <input type="text">
+        <br>
+        <label>Prénom</label>
+        <br>
+        <input type="text">
+        <br>
+        <label>Email</label>
+        <br>
+        <input type="text">
+        <br>
+        <label>Question</label>
+        <br>
+        <textarea name="Question" cols="30" rows="6"></textarea>
+        <br>
+        <input type="submit" value="Envoyer">
+    </form>
+</main>
+<footer>
+    <div class="partie_supérieure">
+        <a href="A_propos.html">À Propos</a>
+        <a href="Contact.html">Contact</a>
+        <p>Réalisé par Raphaël LEMOINE</p>
+    </div>
+
+    <div class="partie_inférieure">
+        <div class="mmi">
+            <img src="img/MMi%20logo.png" alt="Département des métiers du multimédias et de l'internet">
+        </div>
+        <div class="réseaux">
+            <ul>
+                <li><a href="https://www.linkedin.com/in/raphaël-lemoine-83411a200/">Linkedin</a></li>
+                <li><a href="https://twitter.com/?lang=fr">Twitter</a></li>
+                <li><a href="https://fr-fr.facebook.com">Facebook</a></li>
+                <li><a href="https://www.instagram.com/?hl=fr">Instagram</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+</body>
