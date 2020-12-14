@@ -24,7 +24,7 @@ header h2
 
 .image_accueil
 {
-    background-image:url('/projetS1/img/Ready_Player_One_2.jpg');
+    background-image:url('../../img/Ready_Player_One_2.jpg');
     background-repeat: no-repeat;
     background-size: 400px 788px;
     height: 728px;
@@ -40,7 +40,7 @@ header h2
 }
 
 .choix_article a{
-    background-image: url('/projetS1/img/Bouton_en_savoir_plus.png');
+    background-image: url('../../img/Bouton_en_savoir_plus.png');
     background-repeat: no-repeat;
     text-indent: -9999px;
     display: block;
@@ -55,7 +55,7 @@ header h2
 }
 
 .partie_supérieure a:first-child{
-    background-image: url('/projetS1/img/Bouton A Propos.png');
+    background-image: url('../../img/Bouton A Propos.png');
     background-repeat: no-repeat;
     text-indent: -9999px;
     display: inline-block;
@@ -65,7 +65,7 @@ header h2
 }
 
 .partie_supérieure a:nth-child(2){
-    background-image: url('/projetS1/img/Bouton Contact.png');
+    background-image: url('../../img/Bouton Contact.png');
     background-repeat: no-repeat;
     text-indent: -9999px;
     display: inline-block;
@@ -75,7 +75,7 @@ header h2
 }
 
 .réseaux a[href^="twitter"]{
-    background-image: url("/projetS1/img/twitter.png");
+    background-image: url("../../img/twitter.png");
     background-repeat: no-repeat;
     text-indent: -9999px;
     display: block;
@@ -84,7 +84,7 @@ header h2
 }
 
 .réseaux a[href^="facebook"]{
-    background-image: url("/projetS1/img/facebook.png");
+    background-image: url("../../img/facebook.png");
     background-repeat: no-repeat;
     text-indent: -9999px;
     display: block;
@@ -93,7 +93,7 @@ header h2
 }
 
 .réseaux a[href^="https://www.linkedin.com/in/raphaël-lemoine-83411a200/"]{
-    background-image: url("/projetS1/img/linkedin.png");
+    background-image: url("../../img/linkedin.png");
     background-repeat: no-repeat;
     text-indent: -9999px;
     display: block;
@@ -102,7 +102,7 @@ header h2
 }
 
 .réseaux a[href^="Instagram"]{
-    background-image: url("/projetS1/img/instagram.png");
+    background-image: url("../../img/instagram.png");
     background-repeat: no-repeat;
     text-indent: -9999px;
     display: block;
@@ -112,7 +112,7 @@ header h2
 
 
 .article a{
-    background-image: url('/projetS1/img/Bouton Article suivant.png');
+    background-image: url('../../img/Bouton Article suivant.png');
     background-repeat: no-repeat;
     text-indent: -9999px;
     display: inline-block;
