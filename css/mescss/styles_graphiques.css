@@ -74,7 +74,7 @@ header h2
 
 }
 
-.réseaux a[href^="twitter"]{
+.réseaux a[href^="https://twitter.com/?lang=fr"]{
     background-image: url("../../img/twitter.png");
     background-repeat: no-repeat;
     text-indent: -9999px;
@@ -83,7 +83,7 @@ header h2
     width: 24px;
 }
 
-.réseaux a[href^="facebook"]{
+.réseaux a[href^="https://fr-fr.facebook.com"]{
     background-image: url("../../img/facebook.png");
     background-repeat: no-repeat;
     text-indent: -9999px;
@@ -101,7 +101,7 @@ header h2
     width: 24px;
 }
 
-.réseaux a[href^="Instagram"]{
+.réseaux a[href^="https://www.instagram.com/?hl=fr"]{
     background-image: url("../../img/instagram.png");
     background-repeat: no-repeat;
     text-indent: -9999px;
@@ -119,4 +119,12 @@ header h2
     height: 35px;
     width: 235px;
     margin: 20px 0 40px 45px;
+}
+
+.logo{
+    background-color: #FCFCFC;
+    height: 360px;
+    width: 100%;
+    margin: 30px 0 50px 0;
+
 }

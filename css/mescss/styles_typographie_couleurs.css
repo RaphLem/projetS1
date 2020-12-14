@@ -43,6 +43,8 @@ h2
 h3
 {
     font-size: 1.7rem;
+    line-height: 2rem;
+    margin: 20px 0 20px 0;
 }
 
 a,a:active
@@ -99,7 +101,21 @@ footer
     font-weight: lighter;
 }
 
+.list{
+    font-weight: lighter;
+}
+
 .légende{
     color: #989898;
     font-size: 1.1rem;
+}
+
+.publication{
+    color: #989898;
+    font-size: 1.2rem;
+    text-align: right;
+}
+
+.ici{
+    text-decoration: #F2EBB2;
 }

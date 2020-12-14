@@ -3,10 +3,131 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/lib/normalize.css">
-    <link rel="stylesheet" href="css/mescss/styles-typographie-couleurs.css">
-    <link rel="stylesheet" href="css/mescss/styles-graphiques.css">
-    <link rel="stylesheet" href="css/mescss/mise-en-page.css">
+
     <link rel="icon" href="img/logo_vr.png">
     <title>VR Une réalité pas si virtuelle</title>
+
+    <link rel="stylesheet" href="css/lib/normalize.css">
+    <link rel="stylesheet" href="css/mescss/styles_typographie_couleurs.css">
+    <link rel="stylesheet" href="css/mescss/styles_graphiques.css">
+    <link rel="stylesheet" href="css/mescss/mise_en_page.css">
+    <link rel="stylesheet" href="css/mescss/menu.css">
+
 </head>
+<body>
+    <header>
+        <img src="img/logo_vr.png" alt="">
+        <h2>VR Une réalité<br>pas si virtuelle</h2>
+        <div class="nav-toggle" onclick="document.documentElement.classList.toggle('menu-open')">
+            <div class="nav-toggle-bar"></div>
+        </div>
+        <nav class="menu">
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="Ready_Player_One_Un_monde_d_evasion.html">Ready Player One<br>un monde d'évasion</a></li>
+                <li><a href="Pollution_numerique_ignore_du_grand_public.html">Pollution numérique<br>ignoré du grand public</a></li>
+                <li><a href="">Des solutions pour l'avenir</a></li>
+                <li><a href="A_propos.html">À Propos / Autres projets</a></li>
+                <li><a href="Contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Des solutions pour l'avenir</h2>
+        <p class="chapeau">
+            Malgré les problèmes que posent les data centers, des solutions plus écologiques sont recherchées. Par exemple, il y a des moyens de diminution de consommation ou l’utilisation d’énergies renouvelables.
+        </p>
+        <article class="article">
+            <h3>Solutions à l'échelle du consommateur</h3>
+            <p>
+                Pour réduire l’empreinte écologique des data centers, il faut baisser leur consommation d’énergie. Une solution serait de sensibiliser les personnes à adopter une attitude éco-responsable. Même de petits gestes comme trier, supprimer ses mails sont importants. Gérez la taille de vos pièces jointes que vous envoyez et privilégiez les sites de dépôts temporaires. Il faut aussi essayer de stocker nos données sur un disque dur externe plutôt que sur notre Cloud.
+            </p>
+            <p>
+                Quand une recherche est faite sur internet, plus l’on est précis, moins cela consommera ou l’utilisation de lien direct vers un site est encore meilleure. Limiter le nombre d’onglets ouverts dans nos navigateurs est aussi un moyen de réduire notre impact sur l’environnement.
+            </p>
+            <p>
+                Le visionnage de vidéo en ligne est l’un des plus grands facteurs d’échanges de données soit 60% du flux mondial de données. Donc une optimisation de cet usage est nécessaire pour diminuer les gaz à effet de serre. Adapter la résolution de la vidéo à celle de l’appareil sur lequel on la visionne, désactiver la lecture automatique sont des gestes importants. Pour la musique, il est conseillé d’utiliser des musiques téléchargées ou les plateformes de streaming audio comme Spotify ou Deezer au lieu de regarder des clips.
+            </p>
+            <img src="img/media-998990_640.jpg" alt="Applications mobiles">
+            <p class="légende app">Appication mobiles</p>
+            <h3>Solutions à l'échelle des entreprises<br>de data centers</h3>
+            <p>
+                Parallèlement, les fabricants de data centers doivent faire des efforts. Ils doivent utiliser les composants électroniques les plus performants économiquement et écologiquement. Les méthodes de gestion et de calcul des données ne sont pas encore assez efficaces. Les optimiser permettrait d’améliorer le rendement des data center et de consommer moins d’énergie par tâche effectuée.
+            </p>
+            <p>
+                Le refroidissement des data centers est primordial à son fonctionnement mais très énergivore. Donc beaucoup de solutions ont été mises en place. Certaines sont concluantes comme l’utilisation de la chaleur produite pour chauffer des infrastructures (domiciles). L’entreprise Quarnot computing anywhere est spécialisée dans le chauffage écologique à l’aide de radiateurs qui se servent d’une chaleur recyclée. Un data center a été installé sous une piscine municipale pour la chauffer tout en le refroidissant naturellement avec l’eau. Certains sont placés dans des zones froides pour comme Google qui a fait le choix d’en ouvrir un à Hamina en Finlande.
+            </p>
+            <p>
+                D’autres ont décidés déjà de s’orienter vers les énergies renouvelables pour les data centers.
+            </p>
+        </article>
+        <h2>Optimisation énergétique<br>des Data-Centers et<br>usages des énergies renouvelables</h2>
+        <p class="publication">Par Marwa Haddad, Jean Nicod, Marie Péra<br>Publié le 8 Novembre 2019
+        </p>
+        <p>Vous pouvez accédez à l'article complet <a class="ici" href="https://hal.archives-ouvertes.fr/hal-02355281">ici</a></p>
+        <p class="chapeau">
+            Récemment, les chercheurs portent plus d’intérêt pour l’utilisation des énergies renouvelables pour fournir une partie de la consommation globale d’énergie des data centers. Cependant, alors que les énergies renouvelables sont disponibles par intermittence, la demande des datacenters doit être satisfaite, même lorsque l’énergie verte n’est pas disponible.
+        </p>
+        <article class="article">
+            <h3>Transfert d'énergies</h3>
+            <p>
+                Un système de transfert de puissance gère en toute sécurité les sources d’énergie en isolant l’électricité de différentes sources et en s’assurant que le data center reçoive suffisamment de puissance. Stewart et Shen ont décrit un programme de recherche pour la gestion des énergies renouvelables dans les data centers, concluant que prendre en compte la charge des tâches des datacenters permet de réduire encore leur d´dépendance à l’égard des énergies non renouvelables. Malkamäki et Ovaska ont étudié l’énergie solaire et le potentiel de refroidissement dans les data centers européens. Ils ont aussi mis en évidence les relations de base entre l’énergie solaire, la température de l’air et les besoins ultérieurs de refroidissement. Malheureusement, les endroits où le potentiel de production d’énergie solaire est élevé sont moins favorables au refroidissement en raison de sa température ambiante élevée. Arlit et al. ont introduit une méthode pour exploiter un data center avec de l’énergie renouvelable qui minimise la dépendance à la puissance du réseau tout en minimisant le coût d’investissement.
+            </p>
+            <p>
+                Ils y parviennent en intégrant la demande des data centers et la disponibilité des ressources pendant leur exploitation. Ils ont conçu et géré la charge du data center afin d’utiliser les énergies renouvelables sur site, principalement avec des PV, et ainsi compenser entièrement l’utilisation d’énergie non renouvelable du réseau. Plus précisément, ils ont       d´écrit comment combiner l’utilisation des énergies renouvelables avec la planification dynamique de la charge de travail informatique et les techniques de gestion intégrées pour améliorer l’utilisation globale du data center, tout en permettant à la demande d’être adaptées en fonction de la disponibilité des ressources
+            </p>
+            <img src="img/%23électricité%20%23énergie%20%23centrale_solaire.jpg" alt="Energies renouvelables">
+            <p class="légende énergies">Énergies renouvelables</p>
+            <h3>Réduction de consommation</h3>
+            <p>
+                Pour réduire la consommation et recycler l’énergie thermique autrement gaspillée, de nombreux chercheurs ont étudié l’introduction de technologies différentes pour les data centers. L’une d’entre elles est la Cogénération de chaleur et d’électricité (CHP) qui pour rendre le datacenter plus rentable et énergétiquement efficace. L’utilisation de cette technologie répond à l’ensemble des besoins énergétiques des data centers, avec des unités d’absorption utilisées pour récupérer la chaleur déchargée par un moteur thermique ou une pile à combustible. En outre, une application plus large de la cogénération réduirait la demande d’électricité des centrales et réduirait la congestion des infrastructures de transport et de distribution d’électricité. Guizzi et al. ont présenté une analyse comparative entre un data center conventionnel en utilisant une cogénération pour produire de l’électricité couplée avec une machine d’absorption pour fournir du froid.
+            </p>
+            <h3>Système de cogénération</h3>
+            <p>Plus tard, Guizzi et Manno ont discuté de l’évaluation économique et énergétique d’un système de cogénération, pour un data center adapté à une charge IT de 100 kW, basé sur un reformeur à vapeur à membrane de gaz naturel produisant un flux d’hydrogène pur pour la production d’électricité dans une membrane électrolyte polymère pile à combustible. La chaleur a été récupérée à la fois de l’unité de reformage et de la pile à combustible afin de répondre aux besoins d’un immeuble de bureaux situé à proximité. Les simulations ont démontré que 47% de réduction des 3 coûts pourraient être atteints lorsque l’énergie thermique provenant du système de cogénération serait récupérée. En outre, le système innovant de gestion de l’énergie peut également offrir des économies substantielles d’un point de vue environnemental. Ebay a récemment commuté un data center dans l’Utah entièrement alimenté par des piles à combustible de 6 MW alimentées par du gaz naturel reformé. Il est à noter que ce type d’approvisionnement énergétique rend l’infrastructure plus fiable vis à vis des pannes du réseau.
+            </p>
+            <h3>Utilisation de panneaux photovoltaïques</h3>
+            <p>Même si l’utilisation des énergies renouvelables sur place dans les data centers réels est encore à un stade précoce, certaines entreprises ont mis en œuvre différentes solutions d’énergie verte dans leur portefeuille. La mise en œuvre de l’énergie solaire dans les data centers n’a pas été largement utilisée, car il faut une très grande surface de panneaux photovoltaïques pour produire même une fraction de l’énergie requise par ces infrastructures de haute densité énergétique. Néanmoins, il existe déjà des installations réussies. Des panneaux solaires de 100 kW occupant 730 m2 sont situés sur le toit du data center sur le campus d’Emerson dans le Missouri. De la même façon et pour tester le potentiel d’utilisation de l’énergie solaire photovoltaïque pour les data centers, Intel a installé 10 kW d’´électricité dans un data center au Nouveau-Mexique et Goiri et al. a développé Parasol, un prototype de datacenter vert qui comprend un petit conteneur, un ensemble de panneaux solaires, un bloc de batterie électrique et des convertisseurs. De même, des chercheurs de l’Université du Massachusetts ont construit Blink, un cluster de cartes mères d’ordinateurs portables alimenté par deux micro- éoliennes et deux panneaux solaires. Un petit data center en Illinois est devenu le premier data center à 100% éolien aux Etats-Unis en passant ses besoins énergétiques quotidiens avec une éolienne de 500 kW.</p>
+            <h3>Le projet ANR DATAZERO</h3>
+            <p>DATAZERO est un projet financé par l’ANR, qui vise à concevoir un centre de calcul en s’appuyant sur les technologies les plus récentes en termes de sources d’énergie renouvelables, d’équipements électriques, de serveurs informatiques et de systèmes de gestion du cloud. Ce projet vise à réduire de façon spectaculaire la consommation d’énergie des futurs data centers en utilisant les sources renouvelables suivantes : les cellules photovoltaïques, les éoliennes, les piles à combustibles.
+            </p>
+            <div class="logo">
+                <img src="img/datazeroCouleurText-tr.png" alt="Projet DATAZERO" >
+            </div>
+            <p class="légende datazero">Logo du projet DATAZERO</p>
+            <p>
+                Dans DATAZERO, la question adressée est la façon de gérer l’électricité et les flux de services afin de fournir des services aux clients de manière robuste et efficace au sein de data centers fonctionnant avec plusieurs sources d’énergie. Pour répondre à cette question, nous avons identifié sept enjeux scientifiques :
+            </p>
+            <ul class="list">
+                <li>1 - Faire coïncider les contraintes de demande et d’enveloppe sur les plans électriques et informatiques</li>
+                <li>2 - Dimensionner correctement l’équipement.</li>
+                <li>3 - Contrôler de façon optimale les convertisseurs électriques.</li>
+                <li>4 - Planifier et gérer la charge informatique. </li>
+                <li>5 - Prendre en compte la gestion thermique.</li>
+                <li>6 - Etudier la complexité du problème d’optimisation.</li>
+                <li>7 - Développer un outil de simulation. </li>
+            </ul>
+            <p>Les principaux objectifs de DATAZERO sont des datacenters de taille moyenne (jusqu’à 1000 m2 et environ 1 MW) où la charge informatique peut être gérée via Virtualisation ou Cloud orchestrator couramment rencontrés dans les entreprises et les institutions publiques. L’exécution de ces différents travaux se fera en collaboration entre les différents partenaires : les laboratoires LAPLACE (Toulouse), FCLAB (Belfort), IRIT (Toulouse), FEMTO-ST (Besançon) et la société EATON (Grenoble).</p>
+        </article>
+    </main>
+    <footer>
+        <div class="partie_supérieure">
+            <a href="A_propos.html">À Propos</a>
+            <a href="Contact.html">Contact</a>
+            <p>Réalisé par Raphaël LEMOINE</p>
+        </div>
+
+        <div class="partie_inférieure">
+            <div class="mmi">
+                <img src="img/MMi%20logo.png" alt="Département des métiers du multimédias et de l'internet">
+            </div>
+            <div class="réseaux">
+                <ul>
+                    <li><a href="https://www.linkedin.com/in/raphaël-lemoine-83411a200/">Linkedin</a></li>
+                    <li><a href="https://twitter.com/?lang=fr">Twitter</a></li>
+                    <li><a href="https://fr-fr.facebook.com">Facebook</a></li>
+                    <li><a href="https://www.instagram.com/?hl=fr">Instagram</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+</body>

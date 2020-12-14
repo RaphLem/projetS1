@@ -122,9 +122,28 @@ footer {
 }
 
 .easter{
-    top: 1560px;
+    top: 1570px;
 }
 
 .data{
-    top: 1317px;
+    top: 1335px;
+}
+
+.app{
+    top: 1215px;
+}
+
+.énergies{
+    top: 3550px;
+}
+
+.datazero{
+    top: 6120px;
+}
+
+
+.list li{
+    margin: 10px 0 10px 0;
+    padding-left: 15px;
+    line-height: 2rem;
 }
