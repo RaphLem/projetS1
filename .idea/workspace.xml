@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/mescss/carousel.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_propos.html" beforeDir="false" afterPath="$PROJECT_DIR$/A_propos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ready_Player_One_Un_monde_d_evasion.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ready_Player_One_Un_monde_d_evasion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pollution_numerique_ignore_du_grand_public.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pollution_numerique_ignore_du_grand_public.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles_graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_graphiques.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Bouton A propos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Bouton Contact.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <workItem from="1605770295884" duration="3104000" />
       <workItem from="1605885511780" duration="15000" />
       <workItem from="1607767496170" duration="8246000" />
-      <workItem from="1607801849655" duration="64400000" />
+      <workItem from="1607801849655" duration="67393000" />
     </task>
     <task id="LOCAL-00001" summary="Création des pages html">
       <created>1605776208067</created>
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607962406942</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="carousels + page a propos finis">
+      <created>1608048467993</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608048468040</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +190,7 @@
     <MESSAGE value="suppresion des fichier inutiles et modification des arborescence pour les images" />
     <MESSAGE value="article 3 finis et modification des htmls (liens et balises)" />
     <MESSAGE value="page contact terminée" />
-    <option name="LAST_COMMIT_MESSAGE" value="page contact terminée" />
+    <MESSAGE value="carousels + page a propos finis" />
+    <option name="LAST_COMMIT_MESSAGE" value="carousels + page a propos finis" />
   </component>
 </project>
