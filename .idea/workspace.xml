@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pollution_numerique_ignore_du_grand_public.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pollution_numerique_ignore_du_grand_public.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/styles_graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_graphiques.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Bouton A propos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Bouton Contact.png" beforeDir="false" />
-    </list>
+    <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +69,7 @@
       <workItem from="1605770295884" duration="3104000" />
       <workItem from="1605885511780" duration="15000" />
       <workItem from="1607767496170" duration="8246000" />
-      <workItem from="1607801849655" duration="67393000" />
+      <workItem from="1607801849655" duration="67723000" />
     </task>
     <task id="LOCAL-00001" summary="Création des pages html">
       <created>1605776208067</created>
@@ -161,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608048468040</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit final">
+      <created>1608051703971</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608051704009</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +192,7 @@
     <MESSAGE value="article 3 finis et modification des htmls (liens et balises)" />
     <MESSAGE value="page contact terminée" />
     <MESSAGE value="carousels + page a propos finis" />
-    <option name="LAST_COMMIT_MESSAGE" value="carousels + page a propos finis" />
+    <MESSAGE value="commit final" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit final" />
   </component>
 </project>
