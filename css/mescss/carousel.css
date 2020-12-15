@@ -1,0 +1,39 @@
+.carousel img{
+    width: auto;
+    height: 333px;
+    
+}
+
+.carousel_projet img{
+    width: 163px;
+}
+
+.carousel h3{
+    margin: 0 20px;
+}
+
+.carousel{
+    background-color: #20375E;
+    color: #FCFCFC;
+    padding: 20px 0;
+}
+
+ul.carousel-items{
+    list-style: none;
+    padding: 20px 0;
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
+
+li.carousel-item{
+    flex: 1 0 200px;
+    margin-right: 20px;
+    scroll-snap-align: center;
+}
+
+.ellusion{
+    margin-top: 67px;
+}
+
+
