@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="" />
+    <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="Problème bouton disparu">
+      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608052400518</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Problème bouton disparu">
+      <created>1608105835831</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608105835831</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +210,7 @@
     <MESSAGE value="carousels + page a propos finis" />
     <MESSAGE value="commit final" />
     <MESSAGE value="Problème d'index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problème d'index" />
+    <MESSAGE value="Problème bouton disparu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problème bouton disparu" />
   </component>
 </project>
