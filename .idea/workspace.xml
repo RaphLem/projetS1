@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="Problème bouton disparu">
-      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
+    <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="Commit probleme w3c">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/styles_graphiques.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/styles_graphiques.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608105835831</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Commit probleme w3c">
+      <created>1608115359311</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608115359311</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +219,7 @@
     <MESSAGE value="commit final" />
     <MESSAGE value="Problème d'index" />
     <MESSAGE value="Problème bouton disparu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problème bouton disparu" />
+    <MESSAGE value="Commit probleme w3c" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit probleme w3c" />
   </component>
 </project>
