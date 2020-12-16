@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ready_Player_One_Un_monde_d_evasion.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ready_Player_One_Un_monde_d_evasion.html" afterDir="false" />
-    </list>
+    <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,6 +200,7 @@
     <MESSAGE value="page contact terminée" />
     <MESSAGE value="carousels + page a propos finis" />
     <MESSAGE value="commit final" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit final" />
+    <MESSAGE value="Problème d'index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problème d'index" />
   </component>
 </project>

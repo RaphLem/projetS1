@@ -54,7 +54,7 @@ header h2
     border-bottom: solid #FCFCFC 1px;
 }
 
-.partie_supérieure a:first-child{
+.partie_supérieure a:first-of-type{
     background-image: url('../../img/Bouton_A_Propos.png');
     background-repeat: no-repeat;
     text-indent: -9999px;
