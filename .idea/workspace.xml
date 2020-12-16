@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1847ab3b-da27-4d05-98b4-4a214155db31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ready_Player_One_Un_monde_d_evasion.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ready_Player_One_Un_monde_d_evasion.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="KEEP" />
   </component>
   <component name="ProjectId" id="1kV08rAtoTv1tMoIYzMwaU5kvkE" />
   <component name="ProjectViewState">
@@ -73,7 +72,7 @@
       <workItem from="1605770295884" duration="3104000" />
       <workItem from="1605885511780" duration="15000" />
       <workItem from="1607767496170" duration="8246000" />
-      <workItem from="1607801849655" duration="71564000" />
+      <workItem from="1607801849655" duration="68636000" />
     </task>
     <task id="LOCAL-00001" summary="Création des pages html">
       <created>1605776208067</created>
@@ -173,14 +172,7 @@
       <option name="project" value="LOCAL" />
       <updated>1608052400518</updated>
     </task>
-    <task id="LOCAL-00015" summary="commit final">
-      <created>1608052949497</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1608052949497</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
